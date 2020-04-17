@@ -1,10 +1,7 @@
-
 react material-ui template
 ====
 
-Overview
-
-## Description
+# Overview
 
 実際に稼働している[サービス](https://time-stamp.net/auth/signin?testUser=true)のフロントエンドをオープンソースにしたものです。
 以下の技術を利用しています。
@@ -15,12 +12,13 @@ Overview
 - SPA
 - 多言語化
 
-## Demo
+# Demo
 
 https://time-stamp.net/auth/signin?testUser=true
 
-## Build setup
+# Build setup
 
+```
 # install dependencies
 npm i
 
@@ -29,11 +27,12 @@ npm run start
 
 # start backend mock
 npm run start:jsonServer
+```
 
-## Licence
+# Licence
 
 MIT
 
-## 開発ブログ
+# 開発ブログ
 
 [Qiita](https://qiita.com/takimoto_shotaro)
